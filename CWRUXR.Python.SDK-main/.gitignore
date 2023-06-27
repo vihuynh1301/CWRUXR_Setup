@@ -1,0 +1,9 @@
+.vscode
+dist
+*.egg-info/
+*.pyc
+/hidden
+setup.py
+setup.cfg
+cwruxr_sdk.toml
+MANIFSET.in
